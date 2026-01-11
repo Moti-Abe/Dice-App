@@ -22,3 +22,18 @@ This app is built with:
 - **Flutter** — UI toolkit for building natively compiled apps  
 - **Dart** — Programming language used by Flutter  
 - Platform support for mobile, web, and desktop
+  
+## 🛠 Getting Started
+
+### Prerequisites
+
+Make sure you have Flutter installed. You can follow the official guide here:
+
+https://docs.flutter.dev/get-started/install
+
+### Install & Run
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/Moti-Abe/Dice-App.git
+   cd Dice-App
