@@ -14,3 +14,11 @@ Users can:
 -  Cross-platform support (mobile, desktop, web)  
 -  Fully responsive layout  
 -  Custom dice images
+
+## 💻 Built With
+
+This app is built with:
+
+- **Flutter** — UI toolkit for building natively compiled apps  
+- **Dart** — Programming language used by Flutter  
+- Platform support for mobile, web, and desktop
