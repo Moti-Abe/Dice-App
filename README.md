@@ -30,10 +30,3 @@ This app is built with:
 Make sure you have Flutter installed. You can follow the official guide here:
 
 https://docs.flutter.dev/get-started/install
-
-### Install & Run
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/Moti-Abe/Dice-App.git
-   cd Dice-App
