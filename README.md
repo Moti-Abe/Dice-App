@@ -25,7 +25,7 @@ This app is built with:
   
 ## 🛠 Getting Started
 
-### Prerequisites
+#### Prerequisites
 
 Make sure you have Flutter installed. You can follow the official guide here:
 
